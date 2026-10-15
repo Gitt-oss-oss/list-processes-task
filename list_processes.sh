@@ -1,2 +1,2 @@
 #!/bin/bash
-ps -eo comm,pid,ppid
+ps -eo cmd,pid,ppid
